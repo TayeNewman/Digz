@@ -1,4 +1,4 @@
 Digz
 ====
 
-corporate website
+final HackerYou project
